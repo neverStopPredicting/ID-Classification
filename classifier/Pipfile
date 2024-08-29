@@ -1,0 +1,12 @@
+[packages]
+
+fastapi = "==0.103.1"
+uvicorn = "==0.23.2"
+numpy = "==1.26.4"
+tensorflow = "==2.15.0"
+python-multipart = "==0.0.9"
+Pillow = "==10.2.0"
+python-dotenv = "==1.0.1"
+
+[requires]
+python_version = "3.9"
